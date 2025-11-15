@@ -1,6 +1,6 @@
 SecurityX - Advanced Security Platform
 
-##This project is currently in active development. New features and improvements are being added regularly.
+#This project is currently in active development. New features and improvements are being added regularly.
 
 Q1 2025
 
@@ -24,7 +24,7 @@ Q3 2025
  White-label solutions
 
 A comprehensive security platform built with Next.js 14, featuring AI-powered vulnerability scanning, real-time threat detection, and seamless security tool integrations.
-##✅ Current Features
+#✅ Current Features
 
 🔐 User Authentication - Secure sign-up/sign-in with Supabase Auth
 📊 Security Dashboard - Real-time security metrics and analytics
